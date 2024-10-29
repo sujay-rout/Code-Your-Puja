@@ -1,5 +1,5 @@
-Code Your Puja 🎉
-A responsive web project developed as part of the "Code Your Puja" contest organized by Webskitters Academy. This project celebrates the vibrant festival of Durga Puja through a blend of cultural themes and modern web design.
+**Code Your Puja 🎉
+**A responsive web project developed as part of the "Code Your Puja" contest organized by Webskitters Academy. This project celebrates the vibrant festival of Durga Puja through a blend of cultural themes and modern web design.
 
 Project Overview
 This project aims to capture the essence of Durga Puja by showcasing custom photography and interactive web elements designed using HTML and CSS. It highlights the spirit of the festival with a responsive design that provides an optimal user experience across all devices.
